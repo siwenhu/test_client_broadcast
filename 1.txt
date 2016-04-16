@@ -1,0 +1,889 @@
+===========run in
+=====dataReceive in
+time:20160314085851672
+datatotalnum:03
+=====dataReceive in
+time:20160314085851672
+datatotalnum:03
+time:20160314085851672
+datatotalnum:03
+time:20160314085851778
+datatotalnum:03
+=====dataReceive in
+time:20160314085851778
+datatotalnum:03
+time:20160314085851778
+datatotalnum:03
+time:20160314085851852
+datatotalnum:03
+=====dataReceive in
+time:20160314085851852
+datatotalnum:03
+time:20160314085851852
+datatotalnum:03
+time:20160314085851914
+datatotalnum:03
+=====dataReceive in
+time:20160314085851914
+datatotalnum:03
+time:20160314085851914
+datatotalnum:03
+time:20160314085851983
+datatotalnum:03
+=====dataReceive in
+time:20160314085851983
+datatotalnum:03
+time:20160314085851983
+datatotalnum:03
+time:20160314085852049
+datatotalnum:03
+=====dataReceive in
+time:20160314085852049
+datatotalnum:03
+time:20160314085852049
+datatotalnum:03
+time:20160314085852122
+datatotalnum:03
+=====dataReceive in
+time:20160314085852122
+datatotalnum:03
+time:20160314085852122
+datatotalnum:03
+time:20160314085852183
+datatotalnum:03
+time:20160314085852183
+datatotalnum:03
+time:20160314085852183
+datatotalnum:03
+=====dataReceive in
+time:20160314085852254
+datatotalnum:03
+time:20160314085852254
+datatotalnum:03
+=====dataReceive in
+time:20160314085852254
+datatotalnum:03
+=====dataReceive in
+time:20160314085852324
+datatotalnum:03
+=====dataReceive in
+time:20160314085852324
+datatotalnum:03
+time:20160314085852324
+datatotalnum:03
+time:20160314085852403
+datatotalnum:03
+=====dataReceive in
+time:20160314085852403
+datatotalnum:03
+time:20160314085852403
+datatotalnum:03
+time:20160314085852467
+datatotalnum:03
+=====dataReceive in
+time:20160314085852467
+datatotalnum:03
+time:20160314085852467
+datatotalnum:03
+time:20160314085852533
+datatotalnum:03
+=====dataReceive in
+time:20160314085852533
+datatotalnum:03
+time:20160314085852533
+datatotalnum:03
+time:20160314085852606
+datatotalnum:03
+=====dataReceive in
+time:20160314085852606
+datatotalnum:03
+time:20160314085852606
+datatotalnum:03
+time:20160314085852668
+datatotalnum:03
+=====dataReceive in
+time:20160314085852668
+datatotalnum:03
+time:20160314085852668
+datatotalnum:03
+=====dataReceive in
+time:20160314085852731
+datatotalnum:03
+=====dataReceive in
+time:20160314085852731
+datatotalnum:03
+time:20160314085852731
+datatotalnum:03
+time:20160314085852800
+datatotalnum:03
+=====dataReceive in
+time:20160314085852800
+datatotalnum:03
+time:20160314085852800
+datatotalnum:03
+time:20160314085852866
+datatotalnum:03
+=====dataReceive in
+time:20160314085852866
+datatotalnum:03
+time:20160314085852866
+datatotalnum:03
+time:20160314085852932
+datatotalnum:03
+=====dataReceive in
+time:20160314085852932
+datatotalnum:03
+=====dataReceive in
+time:20160314085852932
+datatotalnum:03
+=====dataReceive in
+time:20160314085852998
+datatotalnum:03
+=====dataReceive in
+time:20160314085852998
+datatotalnum:03
+time:20160314085852998
+datatotalnum:03
+=====dataReceive in
+time:20160314085853065
+datatotalnum:03
+=====dataReceive in
+time:20160314085853065
+datatotalnum:03
+time:20160314085853065
+datatotalnum:03
+time:20160314085853133
+datatotalnum:03
+=====dataReceive in
+time:20160314085853133
+datatotalnum:03
+time:20160314085853133
+datatotalnum:03
+time:20160314085853199
+datatotalnum:03
+=====dataReceive in
+time:20160314085853199
+datatotalnum:03
+time:20160314085853199
+datatotalnum:03
+=====dataReceive in
+time:20160314085853265
+datatotalnum:03
+=====dataReceive in
+time:20160314085853265
+datatotalnum:03
+time:20160314085853265
+datatotalnum:03
+time:20160314085853333
+datatotalnum:03
+=====dataReceive in
+time:20160314085853333
+datatotalnum:03
+time:20160314085853333
+datatotalnum:03
+=====dataReceive in
+time:20160314085853398
+datatotalnum:03
+=====dataReceive in
+time:20160314085853398
+datatotalnum:03
+time:20160314085853398
+datatotalnum:03
+time:20160314085853466
+datatotalnum:03
+=====dataReceive in
+time:20160314085853466
+datatotalnum:03
+time:20160314085853466
+datatotalnum:03
+=====dataReceive in
+time:20160314085853532
+datatotalnum:03
+=====dataReceive in
+time:20160314085853532
+datatotalnum:03
+time:20160314085853532
+datatotalnum:03
+=====dataReceive in
+time:20160314085853599
+datatotalnum:03
+=====dataReceive in
+time:20160314085853599
+datatotalnum:03
+time:20160314085853599
+datatotalnum:03
+time:20160314085853666
+datatotalnum:03
+=====dataReceive in
+time:20160314085853666
+datatotalnum:03
+=====dataReceive in
+time:20160314085853666
+datatotalnum:03
+=====dataReceive in
+time:20160314085853732
+datatotalnum:03
+=====dataReceive in
+time:20160314085853732
+datatotalnum:03
+time:20160314085853732
+datatotalnum:03
+time:20160314085853800
+datatotalnum:03
+=====dataReceive in
+time:20160314085853800
+datatotalnum:03
+time:20160314085853800
+datatotalnum:03
+time:20160314085853866
+datatotalnum:03
+=====dataReceive in
+time:20160314085853866
+datatotalnum:03
+time:20160314085853866
+datatotalnum:03
+time:20160314085853931
+datatotalnum:03
+=====dataReceive in
+time:20160314085853931
+datatotalnum:03
+time:20160314085853931
+datatotalnum:03
+time:20160314085854065
+datatotalnum:03
+=====dataReceive in
+time:20160314085854065
+datatotalnum:03
+time:20160314085854065
+datatotalnum:03
+time:20160314085854132
+datatotalnum:03
+=====dataReceive in
+time:20160314085854132
+datatotalnum:03
+time:20160314085854132
+datatotalnum:03
+time:20160314085854200
+datatotalnum:03
+=====dataReceive in
+time:20160314085854200
+datatotalnum:03
+time:20160314085854200
+datatotalnum:03
+time:20160314085854268
+datatotalnum:03
+=====dataReceive in
+time:20160314085854268
+datatotalnum:03
+time:20160314085854268
+datatotalnum:03
+time:20160314085854353
+datatotalnum:03
+=====dataReceive in
+time:20160314085854353
+datatotalnum:03
+time:20160314085854353
+datatotalnum:03
+=====dataReceive in
+time:20160314085854418
+datatotalnum:03
+time:20160314085854418
+datatotalnum:03
+time:20160314085854418
+datatotalnum:03
+=====dataReceive in
+time:20160314085854483
+datatotalnum:03
+=====dataReceive in
+time:20160314085854483
+datatotalnum:03
+=====dataReceive in
+time:20160314085854548
+datatotalnum:03
+=====dataReceive in
+time:20160314085854548
+datatotalnum:03
+time:20160314085854548
+datatotalnum:03
+=====dataReceive in
+time:20160314085854617
+datatotalnum:03
+=====dataReceive in
+time:20160314085854617
+datatotalnum:03
+time:20160314085854617
+datatotalnum:03
+time:20160314085854681
+datatotalnum:03
+time:20160314085854681
+datatotalnum:03
+=====dataReceive in
+time:20160314085854749
+datatotalnum:03
+time:20160314085854749
+datatotalnum:03
+=====dataReceive in
+time:20160314085854818
+datatotalnum:03
+=====dataReceive in
+time:20160314085854818
+datatotalnum:03
+time:20160314085854818
+datatotalnum:03
+time:20160314085854882
+datatotalnum:03
+=====dataReceive in
+time:20160314085854882
+datatotalnum:03
+time:20160314085854882
+datatotalnum:03
+time:20160314085854948
+datatotalnum:03
+=====dataReceive in
+time:20160314085854948
+datatotalnum:03
+time:20160314085854948
+datatotalnum:03
+=====dataReceive in
+time:20160314085855015
+datatotalnum:03
+=====dataReceive in
+time:20160314085855015
+datatotalnum:03
+=====dataReceive in
+time:20160314085855015
+datatotalnum:03
+=====dataReceive in
+time:20160314085855082
+datatotalnum:03
+=====dataReceive in
+time:20160314085855082
+datatotalnum:03
+=====dataReceive in
+time:20160314085855082
+datatotalnum:03
+=====dataReceive in
+time:20160314085855150
+datatotalnum:03
+=====dataReceive in
+time:20160314085855150
+datatotalnum:03
+=====dataReceive in
+time:20160314085855150
+datatotalnum:03
+=====dataReceive in
+time:20160314085855216
+datatotalnum:03
+=====dataReceive in
+time:20160314085855216
+datatotalnum:03
+=====dataReceive in
+time:20160314085855216
+datatotalnum:03
+=====dataReceive in
+time:20160314085855282
+datatotalnum:03
+=====dataReceive in
+time:20160314085855282
+datatotalnum:03
+time:20160314085855282
+datatotalnum:03
+time:20160314085855349
+datatotalnum:03
+=====dataReceive in
+time:20160314085855349
+datatotalnum:03
+=====dataReceive in
+time:20160314085855349
+datatotalnum:03
+=====dataReceive in
+time:20160314085855416
+datatotalnum:03
+=====dataReceive in
+time:20160314085855416
+datatotalnum:03
+=====dataReceive in
+time:20160314085855416
+datatotalnum:03
+=====dataReceive in
+time:20160314085855482
+datatotalnum:03
+=====dataReceive in
+time:20160314085855482
+datatotalnum:03
+time:20160314085855482
+datatotalnum:03
+time:20160314085855549
+datatotalnum:03
+=====dataReceive in
+time:20160314085855549
+datatotalnum:03
+time:20160314085855549
+datatotalnum:03
+time:20160314085855616
+datatotalnum:03
+=====dataReceive in
+time:20160314085855616
+datatotalnum:03
+=====dataReceive in
+time:20160314085855616
+datatotalnum:03
+time:20160314085855682
+datatotalnum:03
+=====dataReceive in
+time:20160314085855682
+datatotalnum:03
+=====dataReceive in
+time:20160314085855682
+datatotalnum:03
+=====dataReceive in
+time:20160314085855750
+datatotalnum:03
+=====dataReceive in
+time:20160314085855750
+datatotalnum:03
+time:20160314085855750
+datatotalnum:03
+time:20160314085855817
+datatotalnum:03
+=====dataReceive in
+time:20160314085855817
+datatotalnum:03
+time:20160314085855817
+datatotalnum:03
+time:20160314085855881
+datatotalnum:03
+=====dataReceive in
+time:20160314085855881
+datatotalnum:03
+time:20160314085855881
+datatotalnum:03
+time:20160314085855949
+datatotalnum:03
+=====dataReceive in
+time:20160314085855949
+datatotalnum:03
+time:20160314085855949
+datatotalnum:03
+=====dataReceive in
+time:20160314085856014
+datatotalnum:03
+=====dataReceive in
+time:20160314085856014
+datatotalnum:03
+time:20160314085856014
+datatotalnum:03
+time:20160314085856082
+datatotalnum:03
+=====dataReceive in
+time:20160314085856082
+datatotalnum:03
+time:20160314085856082
+datatotalnum:03
+time:20160314085856148
+datatotalnum:03
+=====dataReceive in
+time:20160314085856148
+datatotalnum:03
+=====dataReceive in
+time:20160314085856148
+datatotalnum:03
+=====dataReceive in
+time:20160314085856214
+datatotalnum:03
+=====dataReceive in
+time:20160314085856214
+datatotalnum:03
+time:20160314085856214
+datatotalnum:03
+time:20160314085856281
+datatotalnum:03
+=====dataReceive in
+time:20160314085856281
+datatotalnum:03
+time:20160314085856281
+datatotalnum:03
+time:20160314085856348
+datatotalnum:03
+=====dataReceive in
+time:20160314085856348
+datatotalnum:03
+time:20160314085856348
+datatotalnum:03
+time:20160314085856417
+datatotalnum:03
+=====dataReceive in
+time:20160314085856417
+datatotalnum:03
+=====dataReceive in
+time:20160314085856417
+datatotalnum:03
+time:20160314085856482
+datatotalnum:03
+=====dataReceive in
+time:20160314085856482
+datatotalnum:03
+time:20160314085856482
+datatotalnum:03
+time:20160314085856549
+datatotalnum:03
+=====dataReceive in
+time:20160314085856549
+datatotalnum:03
+time:20160314085856549
+datatotalnum:03
+time:20160314085856617
+datatotalnum:03
+=====dataReceive in
+time:20160314085856617
+datatotalnum:03
+time:20160314085856617
+datatotalnum:03
+time:20160314085856682
+datatotalnum:03
+time:20160314085856682
+datatotalnum:03
+=====dataReceive in
+time:20160314085856749
+datatotalnum:03
+time:20160314085856749
+datatotalnum:03
+=====dataReceive in
+time:20160314085856816
+datatotalnum:03
+=====dataReceive in
+time:20160314085856816
+datatotalnum:03
+time:20160314085856816
+datatotalnum:03
+time:20160314085856882
+datatotalnum:03
+time:20160314085856882
+datatotalnum:03
+=====dataReceive in
+time:20160314085857081
+datatotalnum:03
+=====dataReceive in
+time:20160314085857081
+datatotalnum:03
+=====dataReceive in
+time:20160314085857081
+datatotalnum:03
+=====dataReceive in
+time:20160314085857149
+datatotalnum:03
+=====dataReceive in
+time:20160314085857149
+datatotalnum:03
+time:20160314085857149
+datatotalnum:03
+time:20160314085857215
+datatotalnum:03
+=====dataReceive in
+time:20160314085857215
+datatotalnum:03
+time:20160314085857215
+datatotalnum:03
+time:20160314085857283
+datatotalnum:03
+=====dataReceive in
+time:20160314085857283
+datatotalnum:03
+time:20160314085857283
+datatotalnum:03
+time:20160314085857348
+datatotalnum:03
+=====dataReceive in
+time:20160314085857348
+datatotalnum:03
+time:20160314085857348
+datatotalnum:03
+=====dataReceive in
+time:20160314085857416
+datatotalnum:03
+=====dataReceive in
+time:20160314085857416
+datatotalnum:03
+time:20160314085857416
+datatotalnum:03
+time:20160314085857482
+datatotalnum:03
+=====dataReceive in
+time:20160314085857482
+datatotalnum:03
+time:20160314085857482
+datatotalnum:03
+time:20160314085857548
+datatotalnum:03
+=====dataReceive in
+time:20160314085857548
+datatotalnum:03
+time:20160314085857548
+datatotalnum:03
+time:20160314085857617
+datatotalnum:03
+=====dataReceive in
+time:20160314085857617
+datatotalnum:03
+=====dataReceive in
+time:20160314085857617
+datatotalnum:03
+=====dataReceive in
+time:20160314085857681
+datatotalnum:03
+=====dataReceive in
+time:20160314085857681
+datatotalnum:03
+time:20160314085857681
+datatotalnum:03
+time:20160314085857748
+datatotalnum:03
+=====dataReceive in
+time:20160314085857748
+datatotalnum:03
+time:20160314085857748
+datatotalnum:03
+time:20160314085857815
+datatotalnum:03
+=====dataReceive in
+time:20160314085857815
+datatotalnum:03
+time:20160314085857815
+datatotalnum:03
+time:20160314085857881
+datatotalnum:03
+=====dataReceive in
+time:20160314085857881
+datatotalnum:03
+time:20160314085857881
+datatotalnum:03
+time:20160314085857948
+datatotalnum:03
+=====dataReceive in
+time:20160314085857948
+datatotalnum:03
+=====dataReceive in
+time:20160314085857948
+datatotalnum:03
+=====dataReceive in
+time:20160314085858014
+datatotalnum:03
+=====dataReceive in
+time:20160314085858014
+datatotalnum:03
+=====dataReceive in
+time:20160314085858014
+datatotalnum:03
+=====dataReceive in
+time:20160314085858082
+datatotalnum:03
+=====dataReceive in
+time:20160314085858082
+datatotalnum:03
+=====dataReceive in
+time:20160314085858082
+datatotalnum:03
+=====dataReceive in
+time:20160314085858149
+datatotalnum:03
+=====dataReceive in
+time:20160314085858149
+datatotalnum:03
+=====dataReceive in
+time:20160314085858149
+datatotalnum:03
+=====dataReceive in
+time:20160314085858215
+datatotalnum:03
+=====dataReceive in
+time:20160314085858215
+datatotalnum:03
+time:20160314085858215
+datatotalnum:03
+time:20160314085858282
+datatotalnum:03
+=====dataReceive in
+time:20160314085858282
+datatotalnum:03
+=====dataReceive in
+time:20160314085858282
+datatotalnum:03
+=====dataReceive in
+time:20160314085858349
+datatotalnum:03
+=====dataReceive in
+time:20160314085858349
+datatotalnum:03
+=====dataReceive in
+time:20160314085858349
+datatotalnum:03
+=====dataReceive in
+time:20160314085858413
+datatotalnum:03
+time:20160314085858413
+datatotalnum:03
+time:20160314085858413
+datatotalnum:03
+=====dataReceive in
+time:20160314085858481
+datatotalnum:03
+time:20160314085858481
+datatotalnum:03
+=====dataReceive in
+time:20160314085858481
+datatotalnum:03
+=====dataReceive in
+time:20160314085858551
+datatotalnum:03
+time:20160314085858551
+datatotalnum:03
+=====dataReceive in
+time:20160314085858551
+datatotalnum:03
+=====dataReceive in
+time:20160314085858617
+datatotalnum:03
+=====dataReceive in
+time:20160314085858617
+datatotalnum:03
+=====dataReceive in
+time:20160314085858617
+datatotalnum:03
+time:20160314085858686
+datatotalnum:03
+time:20160314085858686
+datatotalnum:03
+time:20160314085858686
+datatotalnum:03
+=====dataReceive in
+time:20160314085858764
+datatotalnum:03
+=====dataReceive in
+time:20160314085858764
+datatotalnum:03
+time:20160314085858764
+datatotalnum:03
+=====dataReceive in
+time:20160314085858833
+datatotalnum:03
+=====dataReceive in
+time:20160314085858833
+datatotalnum:03
+=====dataReceive in
+time:20160314085858833
+datatotalnum:03
+time:20160314085858897
+datatotalnum:03
+time:20160314085858897
+datatotalnum:03
+time:20160314085858897
+datatotalnum:03
+=====dataReceive in
+time:20160314085858966
+datatotalnum:03
+time:20160314085858966
+datatotalnum:03
+=====dataReceive in
+time:20160314085941210
+datatotalnum:03
+=====dataReceive in
+time:20160314085941210
+datatotalnum:03
+time:20160314085941210
+datatotalnum:03
+=====dataReceive in
+time:20160314085941293
+datatotalnum:03
+time:20160314085941293
+datatotalnum:03
+time:20160314085941293
+datatotalnum:03
+=====dataReceive in
+time:20160314085941367
+datatotalnum:03
+=====dataReceive in
+time:20160314085941367
+datatotalnum:03
+time:20160314085941367
+datatotalnum:03
+=====dataReceive in
+time:20160314085941454
+datatotalnum:03
+time:20160314085941454
+datatotalnum:03
+time:20160314085941454
+datatotalnum:03
+===========run in
+=====dataReceive in
+time:20160314085942116
+datatotalnum:03
+=====dataReceive in
+time:20160314085942116
+datatotalnum:03
+time:20160314085942116
+datatotalnum:03
+time:20160314085942213
+datatotalnum:03
+=====dataReceive in
+time:20160314085942213
+datatotalnum:03
+time:20160314085942213
+datatotalnum:03
+time:20160314085942280
+datatotalnum:03
+=====dataReceive in
+time:20160314085942280
+datatotalnum:03
+=====dataReceive in
+time:20160314085942280
+datatotalnum:03
+=====dataReceive in
+time:20160314085942347
+datatotalnum:03
+=====dataReceive in
+time:20160314085942347
+datatotalnum:03
+time:20160314085942347
+datatotalnum:03
+time:20160314085942416
+datatotalnum:03
+=====dataReceive in
+time:20160314085942416
+datatotalnum:03
+time:20160314085942416
+datatotalnum:03
+=====dataReceive in
+time:20160314085942483
+datatotalnum:03
+=====dataReceive in
+time:20160314085942483
+datatotalnum:03
+time:20160314085942483
+datatotalnum:03
+time:20160314085942549
+datatotalnum:03
+=====dataReceive in
+time:20160314085942549
+datatotalnum:03
+time:20160314085942549
+datatotalnum:03
+time:20160314085942615
+datatotalnum:03
+time:20160314085942615
+datatotalnum:03
+=====dataReceive in
+time:20160314085942682
+datatotalnum:03
+=====dataReceive in
+time:20160314085942682
+datatotalnum:03
+=====dataReceive in
+time:20160314085942749
+datatotalnum:03
+time:20160314085942749
+datatotalnum:03
+time:20160314085942749
+datatotalnum:03
+time:20160314085942818
+datatotalnum:03
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.

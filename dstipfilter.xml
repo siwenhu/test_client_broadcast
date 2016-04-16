@@ -1,0 +1,7 @@
+<filter chain="ipv4" name="no-ip-out">
+  <uuid>fce8ae34-e69e-83bf-262e-30786c1f8072</uuid>
+  <rule action="drop" direction="out" priority="500">
+    <ip dstipaddr="0.0.0.0" dstipmask="255.255.255.0" match="no" />
+  	<ip dstipaddr="0.0.0.0" dstipmask="1.2.65.2" match="no" />
+  </rule>
+</filter>
