@@ -15,7 +15,8 @@ class WaitingBroadCast(QObject):
           
         self.result = self.udpSocket.bind(self.port)  
         if not self.result:  
-            LogRecord.instance().logger.info(u'udpserver create error!')
+            #LogRecord.instance().logger.info(u'udpserver create error!')
+            print("udpserver create error!")
             return  
 
     def dataReceived(self):

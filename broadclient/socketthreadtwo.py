@@ -49,12 +49,12 @@ class SocketThread(QThread):
         #self.slotTimer.start(3000)
         #self.connect(self.slotTimer, SIGNAL("timeout()"),self.writeDataToSocket)
 
-        #self.waitingTimer = QTimer()
-        #self.waitingTimer.start(10000)
-        #self.connect(self.waitingTimer, SIGNAL("timeout()"),self.slotStopBroadcastTimeout)
+        self.waitingTimer = QTimer()
+        self.waitingTimer.start(10000)
+        self.connect(self.waitingTimer, SIGNAL("timeout()"),self.slotStopBroadcastTimeout)
  
-        #self.waitingTeacher = WaitingTeacher()
-        #self.connect(self.waitingTeacher, SIGNAL("receive_data"),self.operateTeacherMsg)
+        self.waitingTeacher = WaitingTeacher()
+        self.connect(self.waitingTeacher, SIGNAL("receive_data"),self.operateTeacherMsg)
         
         self.udpSocket = QUdpSocket(self)
         #self.udpSocket.setReadBufferSize(1024*1024*2)
@@ -72,7 +72,7 @@ class SocketThread(QThread):
         if self.result:
             self.joinGroup = self.udpSocketTwo.joinMulticastGroup(self.mcast_addr)
             self.joinGroupTwo = self.udpSocketTwo.joinMulticastGroup(self.mcast_addr_two)
-            LogRecord.instance().logger.info("joinmulticastGroup %d" % self.joinGroup)
+            print("joinmulticastGroup %d" % self.joinGroup)
             
         self.mcast_addr_own = QHostAddress("224.0.0.19")
         
@@ -90,22 +90,22 @@ class SocketThread(QThread):
             self.udpSocketTwo.joinMulticastGroup(self.mcast_addr_two)
             
     def dataReceive(self):
-        #self.datareceivenum+=1
+        self.datareceivenum+=1
         while self.udpSocket.hasPendingDatagrams():
             datagram = QByteArray()
             datagram.resize(self.udpSocket.pendingDatagramSize())
-            self.udpSocket.readDatagram(datagram.size())
-            #msglist = self.udpSocket.readDatagram(datagram.size())
-            #if self.broadFlag == False:
-            #    continue
-            #msg = msglist[0]
-            #timetemp = msg[0:17]
-            #datanumth = msg[17:19]
-            #datatotalnum = msg[19:21]
-            #datacontent = msg[21:]
+
+            msglist = self.udpSocket.readDatagram(datagram.size())
+            if self.broadFlag == False:
+                continue
+            msg = msglist[0]
+            timetemp = msg[0:17]
+            datanumth = msg[17:19]
+            datatotalnum = msg[19:21]
+            datacontent = msg[21:]
             
-            #self.addToLocal(timetemp,datanumth,datatotalnum,datacontent)
-            #self.datanum+=1
+            self.addToLocal(timetemp,datanumth,datatotalnum,datacontent)
+            self.datanum+=1
             
     def addToLocal(self,timetemp,datanumth,datatotalnum,datacontent):
         if self.framedata.has_key(timetemp):
@@ -164,11 +164,11 @@ class SocketThread(QThread):
         while self.udpSocketTwo.hasPendingDatagrams():
             datagram = QByteArray()
             datagram.resize(self.udpSocketTwo.pendingDatagramSize())
-            self.udpSocketTwo.readDatagram(datagram.size())
-            #msglist = self.udpSocketTwo.readDatagram(datagram.size())
-            #msg = str(msglist[0])
 
-        #self.parseMsg(msg)
+            msglist = self.udpSocketTwo.readDatagram(datagram.size())
+            msg = str(msglist[0])
+
+        self.parseMsg(msg)
         
     def broadTheMousePos(self):
         currentPosX = QCursor.pos().x()
