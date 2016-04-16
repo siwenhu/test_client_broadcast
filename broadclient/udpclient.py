@@ -27,9 +27,9 @@ class UdpClient(QWidget):
         self.showlabel = 0
         
         self.socketThread = SocketThread()
-        self.connect(self.socketThread, SIGNAL("imgsignal"),self.paintLabel)
+        #self.connect(self.socketThread, SIGNAL("imgsignal"),self.paintLabel)
         self.connect(self.socketThread, SIGNAL("receiveteacherip"),self.slotGetTeacherIp)
-        self.connect(self.socketThread, SIGNAL("startbroadcast"),self.slotStartBroadcast)
+        #self.connect(self.socketThread, SIGNAL("startbroadcast"),self.slotStartBroadcast)
         self.connect(self.socketThread, SIGNAL("stopbroadcast"),self.slotStopBroadcast)
         self.connect(self.socketThread, SIGNAL("mousepos"),self.slotSetMousePos)
         self.imgstr = "000000"
