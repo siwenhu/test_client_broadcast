@@ -5,7 +5,6 @@ import sys
 from PyQt4.QtNetwork import *
 from socketthreadtwo import SocketThread
 import time
-#from PIL import ImageGrab
 
 QTextCodec.setCodecForTr(QTextCodec.codecForName("utf8"))
 
@@ -27,11 +26,11 @@ class UdpClient(QWidget):
         self.showlabel = 0
         
         self.socketThread = SocketThread()
-        #self.connect(self.socketThread, SIGNAL("imgsignal"),self.paintLabel)
-        self.connect(self.socketThread, SIGNAL("receiveteacherip"),self.slotGetTeacherIp)
-        #self.connect(self.socketThread, SIGNAL("startbroadcast"),self.slotStartBroadcast)
+        self.connect(self.socketThread, SIGNAL("imgsignal"),self.paintLabel)
+        #self.connect(self.socketThread, SIGNAL("receiveteacherip"),self.slotGetTeacherIp)
+        self.connect(self.socketThread, SIGNAL("startbroadcast"),self.slotStartBroadcast)
         self.connect(self.socketThread, SIGNAL("stopbroadcast"),self.slotStopBroadcast)
-        self.connect(self.socketThread, SIGNAL("mousepos"),self.slotSetMousePos)
+        #self.connect(self.socketThread, SIGNAL("mousepos"),self.slotSetMousePos)
         self.imgstr = "000000"
         self.framplat = "jpg"
         self.imgLabel = QLabel(self)
@@ -41,11 +40,11 @@ class UdpClient(QWidget):
         #self.imgLabelTwo.setFixedSize(QSize(QApplication.desktop().width(),QApplication.desktop().height()))
         #self.imgLabelTwo.lower()
         
-        self.mouseLabel = QLabel(self)
-        self.mouseLabel.setFixedSize(QSize(30,30))
-        self.mousepix = QPixmap("images/mousetwo.ico").scaled(30,30)
-        self.mouseLabel.setPixmap(self.mousepix)
-        self.mouseLabel.raise_()
+        #self.mouseLabel = QLabel(self)
+        #self.mouseLabel.setFixedSize(QSize(30,30))
+        #self.mousepix = QPixmap("images/mousetwo.ico").scaled(30,30)
+        #self.mouseLabel.setPixmap(self.mousepix)
+        #self.mouseLabel.raise_()
         
 #         self.scene = QGraphicsScene()
 #         view = QGraphicsView(self.scene,self)
@@ -100,9 +99,9 @@ class UdpClient(QWidget):
     #             
             
             
-    def slotSetMousePos(self,x,y):
+    #def slotSetMousePos(self,x,y):
         
-        self.mouseLabel.move(self.imgLabelTwo.pos() + QPoint(x,y))
+    #    self.mouseLabel.move(self.imgLabelTwo.pos() + QPoint(x,y))
         
         
     def slotGetTeacherIp(self,teacherip):
@@ -116,6 +115,7 @@ class MainWindow(QWidget):
     def __init__(self,parent=None):
         super(MainWindow,self).__init__(parent)
         self.setWindowTitle(u"UDP Client")
+        self.setWindowFlags(Qt.WindowStaysOnTopHint)
         self.setFixedSize(QSize(300,300))
         self.udpClient = UdpClient()
         self.connect(self.udpClient, SIGNAL("start"),self.startB)
@@ -131,7 +131,8 @@ class MainWindow(QWidget):
     def stopB(self):
         self.udpClient.close()
         
-# app=QApplication(sys.argv)
-# dialog=MainWindow()
-# dialog.show()
-# app.exec_()
+#if __name__ == "__main__":
+#    app=QApplication(sys.argv)
+#    dialog=MainWindow()
+#    dialog.show()
+#    app.exec_()

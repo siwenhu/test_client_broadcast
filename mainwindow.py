@@ -19,8 +19,8 @@ from waitingbroadcast import WaitingBroadCast
 #from updateStateThread import UpdateThread
 #from offvm.localimgmanager import LocalImgManager
 import common
-import globalvariable
-import globalfunc
+#import globalvariable
+#import globalfunc
 #from logrecord import LogRecord
 from storeinfoparser import StoreInfoParser
 from base.infohintdialog import InfoHintDialog
@@ -102,7 +102,7 @@ class MainWindow(QWidget):
         self.connect(self.menuBar, SIGNAL("showToolDialog"),self.slotShowToolDialog)
         
         #接收到广播发送的消息，执行相应的操作
-        self.connect(self.broadcast, SIGNAL("operaterCmd"),self.slotOperateBroadcastCMD)
+        #self.connect(self.broadcast, SIGNAL("operaterCmd"),self.slotOperateBroadcastCMD)
         
         
     def slotDownloadError(self,vmname):
@@ -513,7 +513,6 @@ class MainWindow(QWidget):
 
         
     def slotShowToolDialog(self, actionType):
-        print "hello"
         self.emit(SIGNAL("showToolDialog"), actionType)
         
     def slotChangeLinkThreadButtonStatus(self, status):
